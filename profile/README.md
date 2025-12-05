@@ -2,7 +2,7 @@
 
 > Проект команды Веселые Колпаки
 
-Live demo: [playful-chef.github.io](https:playful-chef.github.io)
+Live demo: [playful-chef.github.io](https://playful-chef.github.io)
 
 Репозитории:
 
